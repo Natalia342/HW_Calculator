@@ -1,9 +1,11 @@
 
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Calculator.print();
-    }
-    Calculator res = new Calculator();
 
- }
+        Calculator calcuclator = new Calculator();
+        calcuclator.calc(/*4, 5, '+'*/);
+
+    }
+}
 
