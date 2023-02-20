@@ -4,7 +4,7 @@ public class Main {
         Calculator.print();
 
         Calculator calcuclator = new Calculator();
-        calcuclator.calc(/*4, 5, '+'*/);
+        calcuclator.calc(4, 5, '+');
 
     }
 }
