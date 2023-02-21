@@ -5,7 +5,7 @@ public class Main {
 
         Calculator calcuclator = new Calculator();
         calcuclator.calc(4, 5, '+');
-
+       
     }
 }
 
